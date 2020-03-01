@@ -1,0 +1,8 @@
+{
+    "User": true,
+    "Common": true,
+    "Order": true,
+    "Pay": true,
+    "Product": true,
+    "Activity": true
+}
